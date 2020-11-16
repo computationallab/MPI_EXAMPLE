@@ -7,7 +7,7 @@
 #SBATCH -p gor
 #SBATCH  --mem-per-cpu=1G
 #SBATCH --nodes=1
-#SBATCH --tasks-per-node=1
+#SBATCH --tasks-per-node=8
 
 
 module load gnu8 openmpi3

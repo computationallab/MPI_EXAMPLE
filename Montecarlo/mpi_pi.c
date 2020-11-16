@@ -6,8 +6,8 @@
 #include <time.h>
 #include <mpi.h>
 
-#define N 1E8
-#define d 1E-8
+#define N 1E9
+#define d 1E-9
 
 int main (int argc, char* argv[])
 {
