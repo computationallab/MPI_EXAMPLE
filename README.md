@@ -1,3 +1,6 @@
+The example for the lochness cluster is located in the Montecarlo folder
+
+
 **MPI_PI**
 ======================================================
 Caculate PI using MPI with 3 differend methods
